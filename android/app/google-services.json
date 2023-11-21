@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "214708578697",
+    "project_id": "ratemyquilt-cce52",
+    "storage_bucket": "ratemyquilt-cce52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214708578697:android:c0940ca1af2d3cf7b05958",
+        "android_client_info": {
+          "package_name": "com.example.rate_my_quilt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214708578697-026rk8iik1e73pmg2lrqnlippl74f6cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBOcbn_YByt4TKrXjDLZCLwIFo3jqoPhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214708578697-026rk8iik1e73pmg2lrqnlippl74f6cn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "214708578697-la207c4f8tsgbh7cmlurgifj8hi2g4u9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.rateMyQuilt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
